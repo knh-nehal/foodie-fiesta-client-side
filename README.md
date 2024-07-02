@@ -2,7 +2,7 @@
 
 #### Foodie Fiesta is a Food Sharing and Surplus Reduction Platform where a user can add/request for food.
 
-### Features of this Website
+## Features of this Website
 
 - Logged-in users can add food items to the website, similar to creating a restaurant menu. They can specify relevant
 information. However, a user cannot request their own food listings to maintain fairness and prevent self-promotion.
@@ -18,7 +18,7 @@ trying. Once a request is made, it's recorded in a table for easy reference. Als
 - Tanstack Query
 - Lottie-React
 
-### To Run Locally
+## To Run Locally
 
 1. **Clone the repository:**
 
